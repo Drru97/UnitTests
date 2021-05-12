@@ -1,0 +1,14 @@
+bin
+obj
+pkg
+packages
+*.suo
+*.user
+*.nupkg.bak
+*.nupkg
+_ReSharper.*
+DecisionEngine.Web/node_modules/
+DecisionEngine.Web/wwwroot/
+*.orig
+*.vs
+.idea
